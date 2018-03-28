@@ -19,8 +19,4 @@ function frameIt() {
     element = $("img")
     element.addClass("tasty");
   })
-
-
-
-
 }
