@@ -15,8 +15,9 @@ function getIt(){
 
 function frameIt() {
   $("img").on('load',function(){
+    var element;
     element = $(img)
-    element.classList.add("mystyle");
+    element.classList.add("tasty");
   })
 
 }
