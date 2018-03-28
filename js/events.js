@@ -8,5 +8,7 @@ getIt();
 });
 
 function getIt(){
-  
+  $("p").on('click',function(){
+    
+  })
 }
