@@ -20,3 +20,7 @@ function frameIt() {
     element.addClass("tasty");
   })
 }
+
+function pressIt(){
+  $
+}
