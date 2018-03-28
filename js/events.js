@@ -13,6 +13,11 @@ function getIt(){
   })
 }
 
-function frameIt(){
-  $(imf)
+function frameIt() {
+  $("img").on('load',function(){
+    
+  })
+
+}
+
 }
