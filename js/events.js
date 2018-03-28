@@ -15,7 +15,8 @@ function getIt(){
 
 function frameIt() {
   $("img").on('load',function(){
-    
+    element = $(img)
+    element.classList.add("mystyle");
   })
 
 }
